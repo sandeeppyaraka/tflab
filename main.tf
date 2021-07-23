@@ -12,3 +12,4 @@ resource "aws_instance" "hello sandy" {
     tags = {
     Name = "ExampleAppServerInstance"
 }
+}
